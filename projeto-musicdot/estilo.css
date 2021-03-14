@@ -1,0 +1,78 @@
+body{
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial, courier, sans-serif;
+    color: #3d3d3d;
+}
+
+h1{
+    padding: 10px;
+    background-color: #e1edf2;
+}
+
+.lhistoria{
+    border-bottom: 2px solid red;
+}
+
+p{
+    text-align: justify;
+}
+
+figure{
+    margin: 30px;
+    padding: 15px;
+    text-align: center;
+    background-color: whitesmoke;
+    border: 1px solid lightgrey;
+}
+figcaption{
+    margin-top: 10px;
+}
+
+ul{
+    /*alterar para circulo antes de cada <li> da lista não-ordenada*/
+    list-style-type: circle;
+}
+
+ol{
+    /*ALterar para a sequência alfabética antes de cada <li> da lista ordenada*/
+    list-style-type: upper-alpha;
+}
+
+.matriz-musicdot{
+    width: 550x;
+    margin-left: auto;
+    margin-right: auto;
+}
+.familia-tupfeln{
+    width: 275px;
+    float: right;
+}
+
+figure img{
+    width: 100%
+}
+
+.estilo-subtitulo{
+    padding: 10px;
+    background-color: #e1edf2;
+}
+
+.contato__subtitulo{
+    display: inline;
+}
+
+.contato__info{
+    margin: 16px 0 24px;
+    padding-left: 32px;
+}
+
+.contato__info-titulo,
+.contato__info-descricao {
+    display: inline;
+}
+
+.contato__info-descricao{
+    margin-left:10px;
+}

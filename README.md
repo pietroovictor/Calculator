@@ -1,2 +1,3 @@
 # FRONT-END
-My first steps in Front End
+
+This is a calculator that was developed through a tutorial on youtube.
